@@ -12,3 +12,14 @@
 /Users/cooperstrahan/Documents/Coding_Dojo/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.RazorTargetAssemblyInfo.cache
 /Users/cooperstrahan/Documents/Coding_Dojo/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.dll
 /Users/cooperstrahan/Documents/Coding_Dojo/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.pdb
+/Users/cooperstrahan/Documents/Coding_Dojo/PortfolioI/bin/Debug/netcoreapp2.2/PortfolioI.Views.dll
+/Users/cooperstrahan/Documents/Coding_Dojo/PortfolioI/bin/Debug/netcoreapp2.2/PortfolioI.Views.pdb
+/Users/cooperstrahan/Documents/Coding_Dojo/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.TagHelpers.input.cache
+/Users/cooperstrahan/Documents/Coding_Dojo/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.TagHelpers.output.cache
+/Users/cooperstrahan/Documents/Coding_Dojo/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.RazorCoreGenerate.cache
+/Users/cooperstrahan/Documents/Coding_Dojo/PortfolioI/obj/Debug/netcoreapp2.2/Razor/Views/Foli/Contact.g.cshtml.cs
+/Users/cooperstrahan/Documents/Coding_Dojo/PortfolioI/obj/Debug/netcoreapp2.2/Razor/Views/Foli/Index.g.cshtml.cs
+/Users/cooperstrahan/Documents/Coding_Dojo/PortfolioI/obj/Debug/netcoreapp2.2/Razor/Views/Foli/Projects.g.cshtml.cs
+/Users/cooperstrahan/Documents/Coding_Dojo/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.RazorTargetAssemblyInfo.cs
+/Users/cooperstrahan/Documents/Coding_Dojo/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.Views.pdb
+/Users/cooperstrahan/Documents/Coding_Dojo/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.csproj.CopyComplete

@@ -1,25 +1,26 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Http;
 
-namespace PortfolioI
+namespace PortfolioI.Controllers
 {
     public class FoliController : Controller
     {
         [HttpGet("")]
-        public string Index()
+        public ViewResult Index()
         {
-            return "This is my Index!";
+            return View("Index");
         }
 
         [HttpGet("projects")]
-        public string Projects()
+        public ViewResult Projects()
         {
-            return "These are my projects";
+            return View("Projects");
         }
 
         [HttpGet("contact")]
-        public string Contact()
+        public ViewResult Contact()
         {
-            return "This is my contact";
+            return View("Contact");
         }
     }
 }

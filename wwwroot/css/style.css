@@ -1,0 +1,39 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.container {
+    margin: 0px auto;
+    width: 100%;
+    text-align: center;
+}
+
+.frm {
+    width: 40%;
+    text-align: left;
+    margin: 0px auto;
+}
+
+.image {
+    width: 40%;
+    margin: 0px auto;
+    align-content: left;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.proj {
+    width: 80%;
+    margin: 1.5% auto;
+    text-align: left;
+    background-color: lightgray;
+}
+.innertext {
+    display: inline-block;
+    margin-left: 15%;
+}
+.intext {
+    display: inline-block;
+    margin-left: 9%;
+}
