@@ -1,0 +1,14 @@
+/Users/cooperstrahan/Documents/Coding_Dojo/PortfolioI/bin/Debug/netcoreapp2.2/PortfolioI.deps.json
+/Users/cooperstrahan/Documents/Coding_Dojo/PortfolioI/bin/Debug/netcoreapp2.2/PortfolioI.runtimeconfig.json
+/Users/cooperstrahan/Documents/Coding_Dojo/PortfolioI/bin/Debug/netcoreapp2.2/PortfolioI.runtimeconfig.dev.json
+/Users/cooperstrahan/Documents/Coding_Dojo/PortfolioI/bin/Debug/netcoreapp2.2/PortfolioI.dll
+/Users/cooperstrahan/Documents/Coding_Dojo/PortfolioI/bin/Debug/netcoreapp2.2/PortfolioI.pdb
+/Users/cooperstrahan/Documents/Coding_Dojo/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.csprojAssemblyReference.cache
+/Users/cooperstrahan/Documents/Coding_Dojo/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.csproj.CoreCompileInputs.cache
+/Users/cooperstrahan/Documents/Coding_Dojo/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.RazorAssemblyInfo.cache
+/Users/cooperstrahan/Documents/Coding_Dojo/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.RazorAssemblyInfo.cs
+/Users/cooperstrahan/Documents/Coding_Dojo/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.AssemblyInfoInputs.cache
+/Users/cooperstrahan/Documents/Coding_Dojo/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.AssemblyInfo.cs
+/Users/cooperstrahan/Documents/Coding_Dojo/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.RazorTargetAssemblyInfo.cache
+/Users/cooperstrahan/Documents/Coding_Dojo/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.dll
+/Users/cooperstrahan/Documents/Coding_Dojo/PortfolioI/obj/Debug/netcoreapp2.2/PortfolioI.pdb
